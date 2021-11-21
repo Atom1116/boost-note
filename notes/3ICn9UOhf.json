@@ -1,0 +1,1 @@
+{"_id":"note:3ICn9UOhf","title":"Pythonテクニック","content":"\n### スライスでリストの偶数・奇数を取得\n```\ns = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\neven = s[::2]  # 偶数\nodd = s[1::2]  # 奇数\nprint(even)\nprint(odd)\n```\n\n","tags":[],"folderPathname":"/競技プログラミング","data":{},"createdAt":"2020-12-06T13:17:07.996Z","updatedAt":"2020-12-06T13:18:41.629Z","trashed":false,"_rev":"aUjcohPNs"}
