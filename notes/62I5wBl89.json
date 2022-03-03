@@ -1,0 +1,1 @@
+{"_id":"note:62I5wBl89","title":"Day1対応の実施","content":"# Day1対応の実施\n\n\n## Day1対応とは\nはじめてアカウント作った際のアカウントに対して実施するAWS推奨の設定\n標準的に求められる設定の対応\n\n## MFAの設定\ngoogle Authoritiazionアプリを使って多要素認証を設定する\n\n## ユーザ設定","tags":[],"folderPathname":"/AWS","data":{},"createdAt":"2022-02-17T02:29:11.826Z","updatedAt":"2022-02-17T07:24:15.029Z","trashed":false,"_rev":"d47aMuchG"}
